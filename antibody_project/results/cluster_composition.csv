@@ -1,0 +1,6 @@
+cluster_kmeans,Fab / Fab fusion,IgG conjugate,IgG fusion,Multispecific (IgG-like),Multispecific (fragment-based),Single domain,Whole mAb,scFv / scFv fusion
+0,0.013,0.04,0.018,0.128,0.058,0.0,0.735,0.009
+1,0.0,0.0,0.0,0.135,0.649,0.216,0.0,0.0
+2,0.005,0.041,0.023,0.146,0.027,0.0,0.744,0.014
+3,0.024,0.045,0.014,0.171,0.051,0.003,0.688,0.003
+4,0.01,0.079,0.044,0.167,0.038,0.0,0.651,0.01
